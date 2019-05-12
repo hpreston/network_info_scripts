@@ -101,6 +101,8 @@ Let's create a CSV file containing all the MAC addresses for every interface in 
 * [`genie`](https://pypi.org/project/genie/) - To gather network interface details
 * [`csv`](https://docs.python.org/3.7/library/csv.html) - To write out details to a CSV file
 
+> Note: if you'd like to explore this example within an interactive Python environment, checkout [`interface_report_interactive.py`](interface_report_interactive.py) for a walkthrough designed to be used in iPython or another interactive window.
+
 1. Install the necessary Python libraries into your virtual environment. 
 
 	```bash
