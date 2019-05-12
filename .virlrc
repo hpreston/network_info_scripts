@@ -1,0 +1,4 @@
+# Setting virlutils info for the DevNet Sandbox
+VIRL_HOST=10.10.20.160
+VIRL_USERNAME=guest
+VIRL_PASSWORD=guest
