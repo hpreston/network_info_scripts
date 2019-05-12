@@ -44,9 +44,11 @@ All of the scripts have been built and tested using the [DevNet Multi-IOS Sandbo
 	> One method of creating a venv is shown here, feel free to use whatever method you prefer and works on your platform. 
 	
 	```bash
-	python3 -m venv venv 
+	python3.6 -m venv venv 
 	source venv/bin/activate 
-	pip install virlutils 
+	pip install requests virlutils 
+
+	# Due to an version specificity between requests and urllib 3, manually installing requests here 
 	``` 
 
 1. Now we can start our network simulation.  If you've your own topology file, feel free to use that.  Otherwise let's start up one of the samples. 
