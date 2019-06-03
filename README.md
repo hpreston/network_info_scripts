@@ -1,4 +1,7 @@
 # Network Info Scripts Examples
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/hpreston/network_info_scripts)
+
 This repository contains a sampling of Python scripts that can be used to gather information from the network using different libraries and tools available to network automation engineers.  
 
 * [Setup a DevNet Sandbox to Use](#setup-a-test-network-with-devnet-sandbox)
