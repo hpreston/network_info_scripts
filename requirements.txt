@@ -83,6 +83,6 @@ urllib3==1.24.3
 virlutils==0.8.8
 wcwidth==0.1.7
 websocket-client==0.56.0
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 xmltodict==0.12.0
 yamllint==1.15.0
