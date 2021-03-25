@@ -71,7 +71,7 @@ pycparser==2.19
 Pygments==2.4.0
 pyOpenSSL==19.0.0
 python-dateutil==2.8.0
-PyYAML==5.1
+PyYAML==5.4
 requests==2.21.0
 setproctitle==1.1.10
 six==1.12.0
