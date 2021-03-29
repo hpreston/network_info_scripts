@@ -68,7 +68,7 @@ pyats.templates==19.4.0
 pyats.topology==19.4.0
 pyats.utils==19.4.3
 pycparser==2.19
-Pygments==2.4.0
+Pygments==2.7.4
 pyOpenSSL==19.0.0
 python-dateutil==2.8.0
 PyYAML==5.1
