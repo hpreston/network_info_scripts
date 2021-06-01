@@ -79,7 +79,7 @@ tabulate==0.8.3
 tqdm==4.31.1
 traitlets==4.3.2
 unicon==19.4.0
-urllib3==1.24.3
+urllib3==1.26.5
 virlutils==0.8.8
 wcwidth==0.1.7
 websocket-client==0.56.0
