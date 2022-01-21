@@ -33,7 +33,7 @@ genie.trafficgen==19.4.0
 genie.utils==19.4.0
 gunicorn==19.9.0
 idna==2.8
-ipython==7.5.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 IxNetwork==8.50.1501.10
