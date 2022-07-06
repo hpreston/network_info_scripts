@@ -41,7 +41,7 @@ jedi==0.13.3
 Jinja2==2.10.1
 jsonpickle==1.1
 junit-xml==1.8
-lxml==4.3.3
+lxml==4.9.1
 MarkupSafe==1.1.1
 netaddr==0.7.19
 parso==0.4.0
