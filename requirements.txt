@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 asyncssh==1.16.1
 backcall==0.1.0
 backports.ssl==0.0.9
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 Click==7.0
